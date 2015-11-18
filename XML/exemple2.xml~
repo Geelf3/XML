@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Treballador id="123">
+    <nom>Karla</nom>
+    <carrec>Mindundi</carrec>
+    <edat>24</edat>
+    <genere>Dona</genere>
+    <password>1234</password>
+</Treballador>
